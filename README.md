@@ -1,7 +1,7 @@
 # Code Institute - 5 Day Coding Challenge solution
 ![Design](images/responsive-image.png)
 
-This is a solution to the [5 Day Coding Challenge](https://codeinstitute.net/5-day-coding-challenge/) from the Code Institute. It is basically a challnenegt where you can learn the basics of coding with a free introductory course. Each day, for 5 days, you are given a new coding challenge to complete with tutorial videos and detailed notes. This was the first website I ever coded from scratch.
+This is a solution to the [5 Day Coding Challenge](https://codeinstitute.net/5-day-coding-challenge/) from the Code Institute. It is basically a challenge where you can learn the basics of coding with a free introductory course. Each day, for 5 days, you are given a new coding challenge to complete with tutorial videos and detailed notes. This was the first website I ever coded from scratch.
 
 ## Overview
 
@@ -28,7 +28,7 @@ This is a solution to the [5 Day Coding Challenge](https://codeinstitute.net/5-d
 - Javascript
 
 ### What I learned
-- This was the first website I ever coded from scratch. Before this project I only ever worked with Wordpress (the no-code version)
+- This was the first website I ever coded from scratch. Before this project, I only ever worked with WordPress (the no-code version)
 - I was introduced to HTML, CSS and a basic intro to Javascript
 
 ## Author
